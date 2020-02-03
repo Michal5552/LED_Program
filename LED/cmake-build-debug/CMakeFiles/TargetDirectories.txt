@@ -1,0 +1,4 @@
+/Users/michal/Desktop/LED/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/michal/Desktop/LED/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michal/Desktop/LED/cmake-build-debug/CMakeFiles/PROJECT_NAME.dir
+/Users/michal/Desktop/LED/cmake-build-debug/CMakeFiles/PROJECT_NAME_autogen.dir

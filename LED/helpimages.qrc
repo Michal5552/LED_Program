@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/HelpImages">
+        <file>Pictures/info.jpg</file>
+        <file>Pictures/Utilities.png</file>
+    </qresource>
+</RCC>

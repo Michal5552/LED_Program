@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ToolBarIcons">
+        <file>Pictures/info.jpg</file>
+        <file>Pictures/Utilities.jpg</file>
+    </qresource>
+</RCC>
